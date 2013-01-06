@@ -1,5 +1,5 @@
 Quickly install with:
 
-    git clone git://github.com/msanders/snipmate.vim.git
-	cd snipmate.vim
+    git clone git@github.com:jhsrcmh/VIM_Moon.git
+	cd VIM_Moon
 	cp -R * ~/.vim
