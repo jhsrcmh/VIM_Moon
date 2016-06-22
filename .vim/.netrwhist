@@ -1,8 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/etc'
-let g:netrw_dirhist_2='/home/twins/workplace/ruby/rails/blog/app/models'
-let g:netrw_dirhist_3='/home/twins/workplace/ruby/rails/blog/app/views/upload'
-let g:netrw_dirhist_4='/home/twins/workplace/ruby/rails/uploadtest/app/uploaders'
-let g:netrw_dirhist_5='/home/twins/workplace/ruby/rails/uploadtest/config'
-let g:netrw_dirhist_6='/home/twins/workplace/ruby/rails/carrierwave-nested_form/app/helpers'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/twins/workspace/github/jhsrcmh.github.com/assets/themes/the-program'
